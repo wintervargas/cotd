@@ -1063,3 +1063,9 @@ h2.jqm-home-widget {
 	color: #fff;
 	text-shadow: none;
 }
+
+.ui-header{
+background-color:red!important;
+color: white!important;
+}
+
